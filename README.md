@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/ericksonmessias20110423/GIT%20Hub%20And%20Azure%20Pipelines/_apis/build/status/ericsonmessias.calculator?branchName=master)](https://dev.azure.com/ericksonmessias20110423/GIT%20Hub%20And%20Azure%20Pipelines/_build/latest?definitionId=8&branchName=master)
